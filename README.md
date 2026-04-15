@@ -1,4 +1,4 @@
-TODO:
+** TODO: 
 
 Create a JavaScript file named script.js to complete the following tasks:
 Do not modify index.html file, use JavaScript to achive the required changes
